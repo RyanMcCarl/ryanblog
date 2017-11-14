@@ -1,0 +1,396 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"in",
+				"installStuff"
+			],
+			[
+				"OPT",
+				"OPTARG"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sort",
+		"selected_items":
+		[
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"jin",
+				"Set Syntax: Jinja2"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"orgmode",
+				"Preferences: orgmode Settings – Default"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"org",
+				"Set Syntax: orgmode"
+			],
+			[
+				"sortinte",
+				"SortBy: Integer"
+			],
+			[
+				"json ",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"so",
+				"Sort Lines"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ryan/Dropbox/wordbrewery"
+	],
+	"file_history":
+	[
+		"/Users/ryan/Dropbox/dev/mccarlblog/templates/layout.html",
+		"/Users/ryan/Dropbox/dev/mccarlblog/assets/static/style.css",
+		"/Users/ryan/Dropbox/dev/ryanblog/ryanblog.sublime-project",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/word_ids.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_deprecated.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_frequency.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_ids.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_mappings.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_pedagogy.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_peers.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_top_words.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanji_traditional.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/word_deprecated.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/worddeprecated.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/word_frequency.csv",
+		"/Users/ryan/Dropbox/dev/databases/mongo_csv_dump.sh",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/useless_components.txt",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/base_components.jouyou.tsv",
+		"/Users/ryan/Dropbox/dev/databases/local/kmappings.csv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/char_collocations.txt",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/common_jp_radicals_info.txt",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/common_jp_radicals.txt",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/component_kanji_counts.csv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/components.tsv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/components_variants.tsv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/useless_components.csv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/components_phonetic.jouyou.tsv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/components_phonetic.kanjivg.tsv",
+		"/Users/ryan/Dropbox/dev/wbtools/Japanese/kanji/base_components.kanjivg.tsv",
+		"/Users/ryan/Dropbox/dev/databases/local/kfrequency.csv",
+		"/Users/ryan/Dropbox/dev/dotfiles/.pyconfig.ini",
+		"/Users/ryan/Dropbox/dev/dotfiles/new_osx_setup.sh",
+		"/Users/ryan/Dropbox/dev/databases/local/kdeprecated.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/kpedagogy.csv",
+		"/Users/ryan/Dropbox/dev/databases/local/worddeprecated.csv",
+		"/Users/ryan/Dropbox/dev/databases/local/kpedagogy.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/kfreq.csv",
+		"/Users/ryan/Dropbox/dev/databases/local/ktopwords.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/kpeers.csv",
+		"/Users/ryan/Dropbox/dev/databases/local/kpeers.csv",
+		"/Users/ryan/Dropbox/dev/databases/jp_data_csvs/kanjI_frequency.csv",
+		"/Users/ryan/Dropbox/dev/databases/local/kanji_frequency.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/kmappings.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/wordids.csv",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjiidscombined.csv",
+		"/Users/ryan/Dropbox/dev/databases/mlab/kanjiids.csv",
+		"/Users/ryan/Dropbox/dev/japanese/output/kpairs.csv",
+		"/Users/ryan/Dropbox/dev/dotfiles/.zshrc",
+		"/Users/ryan/Dropbox/dev/neo4j/sample_neo4j_config.ini",
+		"/Users/ryan/Dropbox/dev/dotfiles/error_handler.sh",
+		"/Users/ryan/Dropbox/dev/dotfiles/new_linux_setup.sh",
+		"/Users/ryan/Library/Preferences/com.googlecode.iterm2.plist",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjipairs.csv",
+		"/Users/ryan/Dropbox/notes/neo4j_by_example.org",
+		"/Users/ryan/Dropbox/dev/dotfiles/top_homebrew_packages",
+		"/Users/ryan/Dropbox/notes/programming_tasks.org",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjipairs (Ryan McCarl's conflicted copy 2017-11-07).txt",
+		"/Users/ryan/Dropbox/dev/japanese/2017-11-04-japanese-misc.py",
+		"/Users/ryan/Library/Application Support/Sublime Text 3/Packages/orgmode/orgmode.sublime-settings",
+		"/Users/ryan/Dropbox/dev/japanese/jptools/get_char_sets.py",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjipairs-backup.csv",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjipairs3.txt",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjipairs2.txt",
+		"/Users/ryan/Dropbox/dev/japanese/output/kanjipairs.txt",
+		"/Users/ryan/Dropbox/dev/japanese/jptools/kanji_dicts.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/main/views.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/models.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/config.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/tests/test_basics.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/__init__.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/views/errors.py",
+		"/Users/ryan/Dropbox/dev/scripts/flask_bootstrap_template.html",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/views/__init__.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/views/home.py",
+		"/Users/ryan/Dropbox/dev/scripts/flask_init_file.py",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/templates/home/layout.html",
+		"/Users/ryan/Dropbox/dev/scripts/flask.sh",
+		"/Users/ryan/Dropbox/dev/scripts/flask_install",
+		"/Users/ryan/Dropbox/dev/scripts/flask_make_files",
+		"/Users/ryan/Dropbox/dev/angular/www/lib/ionic/ionic.bundle.js",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/templates/layout.html",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/ryanserver.sublime-workspace",
+		"/Users/ryan/Dropbox/dev/ryanserver/app/untitled.sublime-workspace",
+		"/Users/ryan/Dropbox/dev/scripts/index.html",
+		"/Users/ryan/Movies/global/global_links.txt",
+		"/Users/ryan/Movies/ryan_videos/global_messages_SA_CL_etc.md",
+		"/Users/ryan/Dropbox/dev/flask_setup.sh",
+		"/Users/ryan/Dropbox/notes/finance_bills_medical_misc_pws.md",
+		"/Users/ryan/Dropbox/dev/dotfiles/bash_aliases",
+		"/Users/ryan/.emacs.d/more-packages.el",
+		"/Users/ryan/Dropbox/.emacs.d/emacs_package_list.el",
+		"/Users/ryan/Dropbox/dev/dotfiles/.zshrc~",
+		"/Users/ryan/Dropbox/dev/dotfiles/vimrc"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"weig",
+			"bold"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "ryanblog.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"scripts/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$$CookieReaderProvider"
+			]
+		],
+		"width": 675.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

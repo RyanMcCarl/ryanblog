@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ryan McCarl</title>
+    <link>http://ryanmccarl.com/categories/</link>
+    <description>Recent content in Categories on Ryan McCarl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Education</title>
+      <link>http://ryanmccarl.com/categories/education/</link>
+      <pubDate>Fri, 09 Oct 2015 05:49:37 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/categories/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>http://ryanmccarl.com/categories/language/</link>
+      <pubDate>Fri, 09 Oct 2015 05:49:37 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/categories/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://ryanmccarl.com/categories/learning/</link>
+      <pubDate>Fri, 09 Oct 2015 05:49:37 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>http://ryanmccarl.com/categories/politics/</link>
+      <pubDate>Fri, 10 Feb 2017 03:09:58 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://ryanmccarl.com/categories/technology/</link>
+      <pubDate>Fri, 09 Oct 2015 05:49:37 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update</title>
+      <link>http://ryanmccarl.com/categories/update/</link>
+      <pubDate>Thu, 09 Feb 2017 00:43:21 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/categories/update/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

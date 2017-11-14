@@ -1,0 +1,18 @@
++++
+title = "Michael McConnell on multiculturalism and educational choice"
+date = 2008-06-17T00:01:00Z
+updated = 2008-06-17T00:30:36Z
+tags = ["First Amendment", "multiculturalism", "education", "vouchers", "conservatism", "law", "religion"]
+blogimport = true
+[author]
+	name = "Ryan McCarl"
+	uri = "https://plus.google.com/109901750264132233987"
++++
+
+Despite insistent demands by minority groups, principally Catholics, but including Jews, Presbyterians, Baptists, and Methodists, for equal funding for their free schools, the common school movement soon achieved a monopoly of public funding.  Many states even adopted constitutional provisions barring state funding of religious schools, and a federal constitutional amendment to that effect was narrowly defeated in Congress.  The opposition to particularistic private schools grew to the extent that, in the early twentieth century, some states passed laws forbidding the education of children in languages other than English and banning private schools altogether.  These efforts were promptly overturned by the Supreme Court, on the ground that "[t]he fundamental theory of liberty upon which all governments in this union repose excludes any general power of the state to standardize its children by forcing them to accept instruction from public teachers only." (<em>Pierce v. Society of Sisters</em>, 1925)<br />...<br />The leading elementary and secondary school textbooks virtually neglect any mention of religious influences or ideas in history, ethics, or social studies.  Thus, the "public values" inculcated by the public schools are not, in fact, the values held by the large majority of the American public, but the values held by a secular minority.<br />...<br />It is not possible, practically or theoretically, for public schools to be "neutral" with respect to contentious questions of morality, politics, and religion.  The more the school attempts to be evenhanded, the more it will appear to endorse a position of relativism, or worse, cynicism.<br />...<br />No shifts in constitutional doctrine governing the conduct of the public schools can solve this problem, because it inheres in the nature of things.  The Supreme Court can alter the character of public education, making it more religious or more secular, but it cannot make public education genuinely more pluralistic.  A common school is a common school.  That is its blessing and its curse.<br />...<br />While fears of church-state constitutional problems are often cited by opponents of educational choice, those fears are groundless.  Whatever may be the flaws in the educational choice idea, it should be debated on its merits and not rejected on spurious constitutional grounds.  In fact, far from offending the First Amendment, an educational choice plan is much more consistent with the pluralistic vision of the First Amendment than is granting secular schools a monopoly of public funds.<br />...<br />The common school movement now teaches our children, unintentionally, to be value-less, culture-less, root-less, and religion-less.  It can no longer achieve its crowning purpose of providing a unifying moral culture in the face of our many differences.<br /><br /><a href="http://en.wikipedia.org/wiki/Michael_W._McConnell">Michael W. McConnell</a><br />  --"Multiculturalism, Majoritarianism, and Educational Choice: What Does Our Constitutional Tradition Have to Say?," University of Chicago Legal Forum 1991.<div class="blogger-post-footer">---
+Ryan McCarl
+Homepage: http://ryanmccarl.com
+Wide Awake Minds: http://www.wideawakeminds.com
+Blog: http://blog.ryanmccarl.com
+Twitter: http://twitter.com/ryanmccarl
+Facebook: http://fb.wideawakeminds.com</div>

@@ -1,0 +1,24 @@
+#profile > ul {
+
+    justify-content: center;
+    max-width: 85%;
+
+    li {
+        padding-right: 2%;
+
+    }
+
+
+}
+
+#profile .portrait {
+  background-image: url('../img/rmccarl_small.jpg');
+  width: 203px;
+  height: 276px;
+  margin: 0 auto;
+  border-radius: 3%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+

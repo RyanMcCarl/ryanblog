@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education Self Education on Ryan McCarl</title>
+    <link>http://ryanmccarl.com/tags/education-self-education/</link>
+    <description>Recent content in Education Self Education on Ryan McCarl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/education-self-education/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wide Awake Minds</title>
+      <link>http://ryanmccarl.com/project/wideawakeminds/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://ryanmccarl.com/project/wideawakeminds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
