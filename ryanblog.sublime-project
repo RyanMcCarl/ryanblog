@@ -2,35 +2,10 @@
 	"folders":
 	[
 		{
-            "path": "/Users/ryan/Dropbox/dev/mccarlblog",
-            "path": "/Users/ryan/Dropbox/dev/ryanblog",
-            "path": "/Users/ryan/Dropbox/dev/blog",
-            "path": "/Users/ryan/Dropbox/dev/newblog",
-            "path": "/Users/ryan/Dropbox/.emacs.d",
-            "path": "/Users/ryan/Dropbox/dev/",
-            "path": "/Users/ryan/Dropbox/dev/anki_tools",
-            "path": "/Users/ryan/Dropbox/dev/databases",
-            "path": "/Users/ryan/Dropbox/dev/dotfiles",
-            "path": "/Users/ryan/Dropbox/dev/flask",
-            "path": "/Users/ryan/Dropbox/dev/flask-template",
-            "path": "/Users/ryan/Dropbox/dev/japanese",
-            "path": "/Users/ryan/Dropbox/dev/mongo-sync",
-            "path": "/Users/ryan/Dropbox/dev/neo4j-flask",
-            "path": "/Users/ryan/Dropbox/dev/pysplitwise",
-            "path": "/Users/ryan/Dropbox/dev/ryanneo4jflask",
-            "path": "/Users/ryan/Dropbox/dev/ryanserver",
-            "path": "/Users/ryan/Dropbox/dev/ryanwebsite",
-            "path": "/Users/ryan/Dropbox/dev/wam",
-            "path": "/Users/ryan/Dropbox/dev/wb-mobile-app",
-            "path": "/Users/ryan/Dropbox/dev/wbhugo",
-            "path": "/Users/ryan/Dropbox/dev/wblanghubs",
-            "path": "/Users/ryan/Dropbox/dev/wbtools",
-            "path": "/Users/ryan/Dropbox/dev/wbtools/slideshows",
-            "path": "/Users/ryan/Dropbox/dev/wbutils",
-            "path": "/Users/ryan/Dropbox/dev/wordbrewery",
-            "path": "/Users/ryan/Dropbox/dev/wordbrewery-blog",
-            "path": "/Users/ryan/Dropbox/notes",
-            "path": "/Users/ryan/Dropbox/wordbrewery"
+			"path": "/Users/ryan/Dropbox/wordbrewery"
+		},
+		{
+			"path": "."
 		}
 	]
 }
