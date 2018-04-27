@@ -160,10 +160,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ryan/Dropbox/wordbrewery"
+		"/Users/ryan/Dropbox/dev/ryanblog",
+		"/Users/ryan/Dropbox/dev/ryanblog/content",
+		"/Users/ryan/Dropbox/dev/ryanblog/content/post",
+		"/Users/ryan/Dropbox/dev/ryanblog/static",
+		"/Users/ryan/Dropbox/dev/ryanblog/static/css"
 	],
 	"file_history":
 	[
+		"/Users/ryan/Dropbox/dev/ryanblog/static/css/custom.css",
 		"/Users/ryan/Dropbox/dev/mccarlblog/templates/layout.html",
 		"/Users/ryan/Dropbox/dev/mccarlblog/assets/static/style.css",
 		"/Users/ryan/Dropbox/dev/ryanblog/ryanblog.sublime-project",
