@@ -44,12 +44,32 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "sort",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"sort",
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"so",
 				"Sort Lines"
+			],
+			[
+				"gremlin",
+				"Gremlins: Find Next"
+			],
+			[
+				"natura",
+				"SortBy: Natural order"
+			],
+			[
+				"sort",
+				"SortBy: Natural order"
+			],
+			[
+				"csv sort",
+				"CSV: Sort Current Column (Ascending)"
 			],
 			[
 				"jin",
@@ -70,10 +90,6 @@
 			[
 				"html",
 				"Set Syntax: HTML"
-			],
-			[
-				"uniq",
-				"Permute Lines: Unique"
 			],
 			[
 				"ini",
@@ -134,10 +150,6 @@
 			[
 				"shell",
 				"Set Syntax: Shell Script (Bash)"
-			],
-			[
-				"so",
-				"Sort Lines"
 			]
 		],
 		"width": 444.0
@@ -160,14 +172,22 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ryan/Dropbox/dev/ryanblog",
-		"/Users/ryan/Dropbox/dev/ryanblog/content",
-		"/Users/ryan/Dropbox/dev/ryanblog/content/post",
-		"/Users/ryan/Dropbox/dev/ryanblog/static",
-		"/Users/ryan/Dropbox/dev/ryanblog/static/css"
+		"/Users/ryan/Dropbox (Personal)/dev/spanish"
 	],
 	"file_history":
 	[
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/fluent_spanish_sentences.txt",
+		"/Users/ryan/.aliases",
+		"/Users/ryan/Dropbox (Personal)/# Fluent Spanish Sentences.txt",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/sentences/sp_beginner.txt",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/sentences/sp_intermediate.txt",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/spanish_fundamentals/spanish_beginner_sentences.txt",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/fluent_spanish_sentences.txt",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/models/spanishsents.model",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/sentences/Spanish Low-Intermediate News and Politics.tsv",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/sentences/Spanish Low-Intermediate Business and Money.tsv",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/sentences/Spanish Intermediate Any Topic.tsv",
+		"/Users/ryan/Dropbox (Personal)/dev/spanish/data/sentences/Spanish Intermediate Anything.tsv",
 		"/Users/ryan/Dropbox/dev/ryanblog/static/css/custom.css",
 		"/Users/ryan/Dropbox/dev/mccarlblog/templates/layout.html",
 		"/Users/ryan/Dropbox/dev/mccarlblog/assets/static/style.css",
@@ -265,13 +285,18 @@
 	],
 	"find":
 	{
-		"height": 51.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
 		"height": 119.0,
 		"where_history":
 		[
+			"/Users/ryan/Dropbox (Personal)/dev/spanish,*.txt",
+			"/Users/ryan/Dropbox (Personal)/dev/spanish/",
+			"/Users/ryan/Dropbox (Personal)/dev/spanish/data",
+			"/Users/ryan/Dropbox (Personal)/dev/spanish/data,*.txt",
+			"/Users/ryan/Dropbox (Personal)/dev/spanish,*.txt"
 		]
 	},
 	"find_state":
@@ -279,6 +304,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"C:",
+			"pip3",
+			"python3",
+			" ",
+			"­­",
+			"­",
+			" ",
+			"--",
+			"---",
+			"Text",
+			"text",
+			"^\\d+\\s+",
+			"^(\\D.+?[\\.\\?!”\"])\\s+.*?(\\d+)$",
+			"(.+?[\\.\\?”\"])\\s+.*?(\\d+)$",
+			"([\\.\\?”\"])\\s+.*",
+			"\\.\\s+.*",
+			"\\s+\\w+.mp3.*",
+			"^\\d+\\s+",
+			"^\\d+\\s+(.+?)(?:\\t|\\s{2,}).*$",
+			"^\\d+\\s+(.*)$",
+			"(.+?)\\s+(\\d+)$",
+			"\\s{2,}",
+			"\\s{2,}.*$",
 			"head",
 			"weig",
 			"bold"
@@ -289,6 +337,19 @@
 		"regex": true,
 		"replace_history":
 		[
+			" ",
+			"",
+			" ",
+			"",
+			"\\2\\t\\1",
+			"\\1",
+			".",
+			"",
+			"\\1",
+			"\\2\\t\\1",
+			"\\1\\t\\2",
+			"\\t",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -306,7 +367,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 38.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -335,6 +396,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.exec":
 	{
 		"height": 162.0
@@ -347,7 +412,7 @@
 	"project": "ryanblog.sublime-project",
 	"replace":
 	{
-		"height": 72.0
+		"height": 75.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -393,7 +458,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 246.0,
+	"side_bar_width": 396.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

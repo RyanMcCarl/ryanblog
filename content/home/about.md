@@ -13,10 +13,8 @@ weight = 1
 [interests]
   interests = [
     "Law",
-    "Politics",
-    "Education",
-    "Second Language Acquisition",
-    "Tech and Coding"
+    "Education"
+    "Second Language Acquisition"
   ]
 
 # List your qualifications (such as academic degrees).
